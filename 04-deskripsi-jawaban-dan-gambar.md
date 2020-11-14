@@ -12,6 +12,7 @@ VMWare digunakan untuk membuat server virtual.
 
 
 Kapan menggunakan Docker dan VMware?
+
 1). Wadah Docker dan Mesin Virtual sendiri tidak cukup untuk mengoperasikan aplikasi dalam produksi. 
 Jadi orang harus mempertimbangkan bagaimana Wadah Docker akan berjalan di pusat data perusahaan.
 
