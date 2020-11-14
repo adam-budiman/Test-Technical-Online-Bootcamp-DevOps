@@ -27,3 +27,29 @@ Jadi untuk amannya Anda bisa memberikan permission untuk setiap orang yang login
 5. Selalu update server
 Update tujuan utamanaya adalah menyempurnakan fitur-fitur yang ada dan menutup bug yang ada. 
 Jadi jika sewaktu-waktu ada notifikasi update server lebih baik segera dilakukan saja, karena ini memiliki kaitan penting dengan keamanan server website.
+
+6. Hindari download tidak jelas
+Saat melakukan installasi software aplikasi server, usahakan untuk menjaga keamanan server jangan melakukan download dari sumber-sumber yang tidak jelas, besar kemungkinan software aplikasi tersebut disusupi malware yang bisa mengancam keamanan server website. usahakan download pada website-website resminya langsung, bukan dari website download software.
+
+7. Menonaktifkan port network
+Tidak semua port yang ada di server digunakan, makanya diawal tadi Anda bisa merubah  port standart dari SSH. Selain itu Anda bisa menonaktifkan port network yang tidak terpakai, karena port yang terbuka dan tidak dipakai akan menjadi target dari serangan hacker untuk menjalankan aksinya.
+
+![Firewall-Server-768x444](https://user-images.githubusercontent.com/63648786/99139649-5e480100-266d-11eb-9e69-3a9ef9caf386.png)
+
+8. Setting konfigurasi firewall
+Firewall pada server memiliki tugas untuk mengelola dan memantau trafik yang keluar masuk pada server sesuai dengan konfigurasi security yang sudah ditentukan. Firewall berfungsi untuk memblokir akses illegal ke dalam jaringan server seperti serangan bruteforce, blokir IP, SQL Injection dan lainnya.
+
+9. Menggunakan SFTP
+SFTP atau Secure File Transfer Protocol adalah aplikasi pertukaran data yang digunakan antara server dan client dengan keunggulan lebih aman dari FTP biasa. Jika Anda belum tahu tentang kegunaan dan fungsi File Transfer Protocol silahkan baca pada pembahasan sebelumnya.
+
+10. Setting folder read-only
+Salah satu cara untuk mengamankan file dari folder adalah dengan seting read-only. Jadi Anda perlu memodifikasi default akses folder dari ‘read-write’ menjadi ‘read-only’. Hal ini cukup penting untuk menjaga keamanan server dari serangan hacker.
+
+11. Install antivirus
+Walaupun sudah ada firewall, untuk menjaga keamanan server Anda masih memerlukan adanyanya antivirus. Antivirus terbukti lebih ampuh untuk mencegah serangan malware dan virus yang mengarah pada server. Biaya yang Anda keluarkan untuk invest antivirus ini jauh lebih murah jika dibandingkan server rusak karena terkena serangan malware yang menakibatakn website down.
+
+12. Memasang monitoring server
+Server monitoring memungkinkan Anda memantau secara realtime keadaan server, jadi tidak perlu melakukan login dengan SSH untuk tahu keadaan server. Nantinya jika terjadi hal yang tidak wajar Anda bisa langsung action untuk mengetahui permasalahan yang terjadi pada server.
+
+13. Menggunakan SSL
+Nah tips menjaga keamanan server website yang terakhir adalah dengan menggunakan SSL. SSL memungkinkan komunikasi antar server dan web browser berjalan dengan aman tanpa adanya hacker yang bisa mencuri datanya. Karena SSL sekarang ini sudah menggunakan enkrispi 256 bit yang tidak mungkin bisa ditembus oleh hacker dengan waktu yang sangat singkat sekali. Jika Anda membutuhkan layanan SSL Indonesia saat ini, kami memiliki rekomendasi pembelian SSL di GudangSSL.id. Cukup dengan harga 150.000/tahun Anda sudah bisa memiliki Sectigo PositiveSSL.
