@@ -5,8 +5,9 @@ pada salah satu jalur koneksi.
 SSL merupakan singkatan dari  Secure Sockets Layer yang merujuk pada jenis keamanan digital yang memperbolehkan komunikasi dienkripsi di antara website dan web browser\
 
 Contoh-contoh Web Server
-  Apache
-  NginX
-  Zeus
-  Sun Java System
-  Openlitespeed
+
+- Apache
+- NginX
+- Zeus
+- Sun Java System
+- Openlitespeed
