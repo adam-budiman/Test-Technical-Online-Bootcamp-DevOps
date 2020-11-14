@@ -23,7 +23,6 @@ https://www.domainesia.com/tips/web-server/
 
 https://www.hostinger.co.id/tutorial/apa-itu-ssl/
 
-https://kb.biznetgio.com/id_ID/98219-instalasi/cara-instalasi-ssl-lets-encrypt-pada-load-balancer-
-haproxy#:~:text=Load%20balancing%20adalah%20teknik%20untuk,pada%20salah%20satu%20jalur%20koneksi.
+https://kb.biznetgio.com/id_ID/98219-instalasi/cara-instalasi-ssl-lets-encrypt-pada-load-balancer-haproxy#:~:text=Load%20balancing%20adalah%20teknik%20untuk,pada%20salah%20satu%20jalur%20koneksi.
 
 https://www.dewaweb.com/blog/perintah-dasar-linux/
