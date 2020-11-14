@@ -10,5 +10,6 @@ Apabila masih tidak ditemukan, pencarian dilakukan dengan menghubungi server DNS
 Jadi, jika apa yang dicari di server DNS pertama tidak ditemukan. Pencarian dilanjutkan pada server DNS kedua dan seterusnya dengan 6 proses yang sama seperti di atas. Perlu dicatat, pencarian dari client ke sejumlah server DNS dikenal dengan istilah proses pencarian iteratif sedangkan proses pencarian domain antar server DNS dikenal dengan istilah pencarian rekursif.
 
 ![bagaimana-cara-kerja-dns](https://user-images.githubusercontent.com/63648786/99139783-618fbc80-266e-11eb-8250-afd74d4dd9b0.png)
+
 Cara kerja DNS secara Umum
 
